@@ -5,7 +5,7 @@ export default function Index() {
   const {handleSocialAuth, isLoading} = useSocialAuth();
 
   return (
-    <View className="flex-1 items-center justify-center bg-white">
+    <View className="flex-1 bg-white">
       <View className="flex-1 px-8 justify-between">
         <View className="flex-1 justify-center">
 
